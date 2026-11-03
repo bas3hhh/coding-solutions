@@ -63,7 +63,7 @@ Note: I/O will be automatically handled.
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-03T05:23:53.242Z  
+**Submitted:** 2026-11-03T05:25:55.758Z  
 
 ```cpp
 #include <iostream>
